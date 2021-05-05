@@ -1,0 +1,336 @@
+
+
+.oldal{
+	width: 100%;
+	height:100%;
+	background-image: url(css/hatter.jpg);
+}
+
+
+.teteje {
+  padding: 30px;
+  font-size: 40px;
+  text-align: left;
+  color: #F5FFFA;
+  border-bottom:  5px solid white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 55px;
+  background-image: url(css/hatter.jpg);
+}
+
+
+.menüsor{
+float: right;
+font-size: 25px;
+margin-right: 65px;
+margin-top: 12px;
+
+
+}
+
+.udvozlet{
+ float: left;
+ margin-top: 130px;
+ margin-left: 20px;
+
+}
+
+.udvozlet1{
+	font-size: 80px;
+	color: white;
+	padding-top: 70px;
+  width: 100%;
+
+}
+
+.udvozlet2{
+margin-top: 0;
+	padding-top: 40px;
+	padding-left: 0px;
+	font-size: 40px;
+	color: white;
+}
+ .profil{
+  float: right;
+  padding-right: 10px;
+  padding-top:5px;
+  max-width:100%;
+  height:auto
+  
+}
+
+.alul{
+bottom: 0px;
+left: 10px;
+width: 35%;
+padding-right: 10px;
+padding-left: 10px;
+padding-top: 15px;
+padding-bottom: 15px;
+color: white;
+font-size: 20px;
+border: 3px solid white;
+border-radius: 50px;
+
+background-color: none;
+}
+
+.bemutatkozascim {
+margin-top: 200px;
+color: white;
+font-size: 50px;
+text-align: center;
+}
+
+.bemutatkozas{
+font-size: 25px;
+color: white;
+text-align: center;
+margin-left: 140px;
+margin-right: 140px;
+}
+
+.munkaim
+{
+margin-top: 180px;
+font-size: 30px;
+color: white;
+padding-left: 30px;
+
+}
+
+.szelepkep
+{
+  margin-left: auto;
+  padding-top: 50px;
+  margin-right: auto;
+  display: block;
+}
+
+.szelepszoveg
+{
+font-size: 22px;
+color: white;
+text-align: center;
+padding-top: 25px;
+}
+
+.fogantyukep
+{
+   margin-left: auto;
+  padding-top: 70px;
+  margin-right: auto;
+  display: block;
+}
+
+.fogantyuszoveg
+{
+  font-size: 22px;
+color: white;
+text-align: center;
+padding-top: 25px;
+
+}
+
+.tarcsakep
+{
+  margin-left: auto;
+  padding-top: 70px;
+  margin-right: auto;
+  display: block;
+}
+
+.tarcsaszoveg
+{
+   font-size: 22px;
+color: white;
+text-align: center;
+padding-top: 25px;
+}
+
+.hogyankeszultcim
+{
+margin-top: 130px;
+color: white;
+font-size: 50px;
+text-align: center;
+}
+
+.hogyanszoveg
+{
+font-size: 22px;
+color: white;
+text-align: center;
+padding-top: 25px;
+padding-right: 60px;
+}
+
+.hogyankep
+{
+  
+  padding-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.keszultszoveg
+{
+font-size: 22px;
+color: white;
+text-align: center;
+padding-top: 25px;
+padding-right: 60px;
+}
+
+.keszultkep
+{
+ 
+  padding-top: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.hogyankeszultszoveg
+{
+  font-size: 22px;
+color: white;
+text-align: center;
+padding-top: 25px;
+padding-right: 60px;
+
+}
+
+@media only screen and (max-width: 1024px){
+  
+  
+  .teteje {
+   
+  padding: 30px;
+  font-size: 30px;
+  text-align: left;
+  color: #F5FFFA;
+  border-bottom:  5px solid white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 15%;
+  background-image: url(hatter.jpg);
+  }
+
+  .udvozlet1{
+    font-size: 40px
+    
+     
+  }
+  .udvozlet2
+  {
+    font-size: 25px;
+    text-align: center;
+
+  }
+
+}
+
+@media only screen and (max-width: 600px){
+.profil
+  {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  }
+  .alul
+  {text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border:none;
+  }
+
+.teteje {
+  padding: 30px;
+  font-size: 20px;
+  text-align: left;
+  color: #F5FFFA;
+  border-bottom:  3px solid white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 45px;
+  background-image: url(hatter.jpg);
+}
+.menüsor{
+float: right;
+font-size: 15px;
+margin-right: 65px;
+margin-top: 12px;}
+
+ .bemutatkozascim {
+margin-top: 170px;
+color: white;
+font-size: 35px;
+text-align: center;
+}
+
+.bemutatkozas{
+font-size: 15px;
+color: white;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+}
+.munkaim
+{
+margin-top: 160px;
+font-size: 25px;
+color: white;
+padding-left: 30px;
+
+}
+.hogyankeszultcim
+{
+margin-top: 200px;
+color: white;
+font-size: 30px;
+text-align: center;
+}
+
+
+
+}
+
+@media only screen and (max-width: 1024px){
+  
+  .hogyankep{
+  max-width: 100%;
+  height: auto;
+  }
+
+  .hogyanszoveg{
+
+    font-size: 20px;
+  }
+
+  .keszultszoveg{
+
+    font-size: 20px;
+  }
+
+  .hogyankeszultszoveg{
+
+    font-size: 20px;
+  }
+
+  .keszultkep{
+  max-width: 100%;
+  height: auto;
+  }
+  
+  
+  
+}
